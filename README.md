@@ -22,5 +22,5 @@ Vue App:
 --------------------------------------------
 to run the app, navigate to the folder using: </br>
 cd info-razor-app </br>
-npm run dev </br>
+npm run serve </br>
 then you'll need to copy and paste the link generated into your browser (usually localhost:8080)
