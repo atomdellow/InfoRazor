@@ -1,12 +1,13 @@
 InfoRazor
+-------------------------------------------
 Pulls in what you don't have time to read.
 The following instructions will need to be completed.
 Installing the Browser Extension, turning on the Server and running the Dashboard Vue App.
 
 API
 -------------------------------------------
-to run server, navigate to the folder using:
-cd InfoRazorAPI
+to run server, navigate to the folder using: </br>
+cd InfoRazorAPI </br>
 node server.js
 
 Browser Extension
@@ -19,7 +20,7 @@ Browser Extension
  
 Vue App:
 --------------------------------------------
-to run the app, navigate to the folder using:
-cd info-razor-app
-npm run dev
+to run the app, navigate to the folder using: </br>
+cd info-razor-app </br>
+npm run dev </br>
 then you'll need to copy and paste the link generated into your browser (usually localhost:8080)
